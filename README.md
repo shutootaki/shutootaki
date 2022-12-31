@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Twitter: takigon](https://img.shields.io/twitter/follow/_takigon?style=social)](https://twitter.com/_takigon)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=shutootaki9&left_color=gray&right_color=blue)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shutootaki&theme=vue)
  
