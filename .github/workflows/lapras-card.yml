@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          SHARE_ID: "https://lapras.com/public/shutootaki"
+          SHARE_ID: "shutootaki"
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
           # ICON_FIRST: "#030E21"
