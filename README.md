@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 [![Twitter: takigon](https://img.shields.io/twitter/follow/_takigon?style=social)](https://twitter.com/_takigon)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shutootaki&theme=vue)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shutootaki&show_icons=true)
  
