@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shutootaki&theme=github_dark&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shutootaki&theme=github_dark)
-![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+[![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
 <!--START_SECTION:lapras-card-->
 <!--
