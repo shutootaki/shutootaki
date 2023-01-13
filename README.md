@@ -6,6 +6,8 @@
 </p>
 -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shutootaki&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shutootaki&theme=github_dark)
 ![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 
 <!--START_SECTION:lapras-card-->
