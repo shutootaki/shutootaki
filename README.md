@@ -1,8 +1,7 @@
 ### Hi there 👋
+
 <!--
-<a href="https://github.com/shutootaki">
-      <img height="160px" src="https://github-stat-cards.vercel.app/api?username=neila&hide_title=true&hide_border=true&count_private=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=jolly" />
-<img width="540px" src="https://github-stat-cards.vercel.app/api/top-langs?username=shutootaki&hide_title=true&layout=compact&count_private=true&langs_count=10&theme=monokai" />
+<img width="480px" src="https://github-stat-cards.vercel.app/api/top-langs?username=shutootaki&hide_border=true&layout=compact&count_private=true&langs_count=10&theme=monokai" />
 </a>
 -->
 
