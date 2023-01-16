@@ -1,13 +1,14 @@
 ### Hi there 👋
 <!--
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shutootaki&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=github_dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shutootaki&count_private=true&show_icons=true&show_icons=true&theme=github_dark" />
-</p>
+<a href="https://github.com/shutootaki">
+      <img height="160px" src="https://github-stat-cards.vercel.app/api?username=neila&hide_title=true&hide_border=true&count_private=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=jolly" />
+<img width="540px" src="https://github-stat-cards.vercel.app/api/top-langs?username=shutootaki&hide_title=true&layout=compact&count_private=true&langs_count=10&theme=monokai" />
+</a>
 -->
 
 [![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
