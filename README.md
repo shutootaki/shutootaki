@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-<!--
-<img width="480px" src="https://github-stat-cards.vercel.app/api/top-langs?username=shutootaki&hide_border=true&layout=compact&count_private=true&langs_count=10&theme=monokai" />
-</a>
--->
 
 [![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img width="480px" src="https://github-stat-cards.vercel.app/api/top-langs?username=shutootaki&hide_border=true&layout=compact&count_private=true&langs_count=10&theme=monokai" />
+</a>
 
 
 
