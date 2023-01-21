@@ -2,9 +2,9 @@
 
 
 [![](https://raw.githubusercontent.com/shutootaki/shutootaki/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<img width="480px" src="https://github-stat-cards.vercel.app/api/top-langs?username=shutootaki&hide_border=true&layout=compact&count_private=true&langs_count=10&theme=monokai" />
+<a href="https://github.com/shutootaki">
+    <img height="160px" src="https://github-stat-cards.vercel.app/api?username=shutootaki&hide_title=true&hide_border=true&count_private=true&show_icons=true&bg_color=2B292D&theme=jolly" /><img height="160px" src="https://github-stat-cards.vercel.app/api/top-langs?username=shutootaki&hide_border=true&layout=compact&langs_count=10&bg_color=2B292D&theme=monokai" />
 </a>
-
 
 
 
